@@ -1,2 +1,11 @@
-# Hotel-Booking-data-analysis
-Analyzed hotel booking data by mapping guest origins, identifying room assignment discrepancies, and assessing market segment performance. Additionally, examined ADRs for various room types and plotted guest arrival patterns, uncovering key insights for strategic decision-making.
+I executed an in-depth examination of hotel booking data, focusing on multiple analytical aspects to uncover meaningful insights. The spatial analysis of guest origins, performed using choropleth maps, allowed for the identification of geographical trends and patterns, revealing the most common locations from which guests traveled. This analysis helped in understanding the hotel's reach and the effectiveness of its marketing strategies in different regions.
+
+Further, I explored the discrepancies between reserved and assigned rooms by leveraging crosstabulation and pivot tables. This investigation highlighted mismatches between what guests booked and what they were assigned, providing valuable information on potential areas of improvement in the booking and room assignment processes.
+
+Market segment performance was another critical area of analysis. By creating a pie chart, I identified which market segments had the highest number of bookings, offering insights into customer behavior and preferences. This analysis helped in recognizing the most lucrative segments and tailoring marketing efforts accordingly.
+
+The financial analysis involved examining the average daily rate (ADR) for various room types across all market segments. I used clustered bar charts to present this data, making it easy to compare ADRs and identify which room types and segments were the most profitable. This information is crucial for pricing strategy and revenue management.
+
+To gain a deeper understanding of guest arrival patterns, I plotted total guest arrivals on each date using a line plot. This visualization helped in identifying peak times and seasonal trends in booking behaviors, which can inform staffing decisions and promotional activities. Additionally, I analyzed the distribution of guest arrivals to understand the overall flow and volume of guests over time, providing a comprehensive view of booking dynamics.
+
+Overall, this multifaceted analysis of hotel booking data provided valuable insights into guest demographics, booking behaviors, market segment performance, and financial metrics. These findings can significantly aid in strategic decision-making, helping hotel management optimize operations, improve customer satisfaction, and enhance profitability.
